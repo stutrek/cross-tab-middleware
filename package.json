@@ -1,0 +1,22 @@
+{
+  "name": "cross-tab-middleware",
+  "version": "1.0.0",
+  "description": "Middleware to share actions between open tabs",
+  "main": "index.js",
+  "repository": "https://stutrek@github.com/stutrek/crosstab-middleware.git",
+  "author": "Stu Kabakoff <stuart@compstak.com>",
+  "license": "MIT",
+  "dependencies": {
+    "cross-tab-channel": "^1.0.0"
+  },
+  "devDependencies": {
+    "babel-core": "^6.2.1",
+    "babel-loader": "^6.2.0",
+    "babel-plugin-transform-es3-member-expression-literals": "^6.8.0",
+    "babel-plugin-transform-es3-property-literals": "^6.8.0",
+    "babel-plugin-transform-object-assign": "^6.8.0",
+    "babel-preset-es2015": "^6.3.13",
+    "babel-preset-react": "^6.24.1",
+    "babel-preset-stage-0": "^6.5.0"
+  }
+}
