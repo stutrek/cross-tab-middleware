@@ -7,7 +7,7 @@
   "author": "Stu Kabakoff <stuart@compstak.com>",
   "license": "MIT",
   "dependencies": {
-    "cross-tab-channel": "^1.0.0"
+    "cross-tab-channel": "^1.1.0"
   },
   "devDependencies": {
     "babel-core": "^6.2.1",
